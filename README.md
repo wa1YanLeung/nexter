@@ -1,6 +1,6 @@
 # nexter
 
-https://wa1yanleung.github.io/nexter/
+https://grand-real-estate.netlify.app/
 
 This project is from the course Advanced CSS and Sass at Udemy.com
 
