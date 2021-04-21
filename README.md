@@ -1,4 +1,5 @@
-# nexter
+# Nexter
+##Luxury real estate company
 
 https://grand-real-estate.netlify.app/
 
